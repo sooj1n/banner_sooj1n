@@ -1,8 +1,8 @@
 [project]
 name = "baanner_sooj1n"
-version = "0.2.2"
+version = "0.2.2.2"
 description = "Default template for PDM package"
-readme = "README.md"
+
 authors = [
     {name = "sooj1n", email = "sujin19371@gmail.com"},
 ]

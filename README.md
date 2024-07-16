@@ -9,3 +9,18 @@ def show():
     f = Figlet(font='slant')
     print(f.renderText('sooj1n'))  
 ```
+
+```
+
+`show-banner = 'baanner_sooj1n.banner:show'`
+
+#결과
+
+
+                       _ ___
+   _________  ____    (_<  /___
+  / ___/ __ \/ __ \  / // / __ \
+ (__  ) /_/ / /_/ / / // / / / /
+/____/\____/\____/_/ //_/_/ /_/
+                /___/
+
