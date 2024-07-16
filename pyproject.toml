@@ -1,6 +1,6 @@
 [project]
 name = "baanner_sooj1n"
-version = "0.2.2.2"
+version = "0.3.0"
 description = "Default template for PDM package"
 
 authors = [
@@ -14,7 +14,8 @@ readme = "README.md"
 license = {text = "MIT"}
 
 [project.scripts]
-show-banner = 'baanner_sooj1n.banner:show'
+sooj1n-banner = 'banner_sooj1n.banner:show'
+sooj1n-pic = 'banner_sooj1n.banner:pic'
 
 [tool.pdm]
 distribution = true
